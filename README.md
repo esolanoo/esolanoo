@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything. I am open to all challenges
 - 📫 How to reach me https://www.linkedin.com/in/eduardo-solano-jaime-aba8841ab
 
-- I also like programming microcontrollers (C++ and AVR)
+- I also like programming microcontrollers, PLCs, and Data Adquisition Cards
 
 <!---
 esolanoo/esolanoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
