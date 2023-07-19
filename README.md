@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esolanoo. Istudy Mechatronics with focus on advanced programming
+- 👋 Hi, I’m @esolanoo. I studied Mechatronics Engineering with focus on advanced programing; currently doing a post-graduate in Computer Science
 - 👀 I’m interested in Data Science, Image Processing and overall programming (mostly on Python)
 - 🌱 I’m currently learning Data Science and Deep Learning
 - 💞️ I’m looking to collaborate on anything. I am open to all challenges
